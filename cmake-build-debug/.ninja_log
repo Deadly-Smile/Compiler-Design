@@ -1,0 +1,9 @@
+# ninja log v5
+5	4303	6942221975668614	CMakeFiles/Compiler_Designe.dir/main.cpp.obj	a82b5c8c14195622
+31	10066	6942223306469555	CMakeFiles/Compiler_Design.dir/main.cpp.obj	b16d5125ba883f72
+24	11976	6942223325758370	CMakeFiles/Compiler_Design.dir/Utility.cpp.obj	aaa40dcc54486c7a
+10074	11996	6942223326118149	CMakeFiles/Compiler_Design.dir/Token.cpp.obj	cf56c69f23b0e143
+1	13043	6942223336383918	CMakeFiles/Compiler_Design.dir/PreprocessingHandler.cpp.obj	d3a4df63818d8bef
+11996	13795	6942223344240392	CMakeFiles/Compiler_Design.dir/ParseTree.cpp.obj	3dcbdd66f7c066d8
+11977	17724	6942223383671154	CMakeFiles/Compiler_Design.dir/Tokenizer.cpp.obj	cbba1e179119dfad
+17724	19949	6942223405881096	Compiler_Design.exe	a3cd52c25976800a
