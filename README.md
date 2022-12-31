@@ -1,2 +1,2 @@
-# Compiler-Designe
- Fun-Project
+# Compiler-Design
+ Fun project
